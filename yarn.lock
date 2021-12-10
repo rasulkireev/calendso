@@ -7047,9 +7047,10 @@ react-phone-number-input@^3.1.25:
     libphonenumber-js "^1.9.26"
     prop-types "^15.7.2"
 
-react-query@^3.23.1:
-  version "3.24.4"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.24.4.tgz#20d8469cf7d6dda7c778ba6d374aa748e97e8381"
+react-query@^3.34.1:
+  version "3.34.1"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.1.tgz#c3b2e9565fc8944137ef05f07854040429e8862f"
+  integrity sha512-EE7PVynHqpWDFwhxNH7Oq4VOX8iQBE7Gw8ZZDXSNdOZifz2f382S9ZLJ546sHttQ8IBXPilPi9nxNXjhLmJBZw==
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
