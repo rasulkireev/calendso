@@ -593,10 +593,10 @@
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.4.tgz#11847eb2ea5510419d7ada9ff150a33af0ad0863"
 
-"@hookform/resolvers@^2.8.1":
-  version "2.8.1"
-  resolved "https://registry.npmjs.org/@hookform/resolvers/-/resolvers-2.8.1.tgz#0d4fdd25bdeb4b98bf4e177c63fc4efa173454dd"
-  integrity sha512-U5lgaCkvD+0e5X8iQmCHiF+jOqjTX6OHUA7zPdeIHI6xdAOoi3rH9MKNuwMwv5Hly2LL6XtDgDkS/k+YG9hOew==
+"@hookform/resolvers@^2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-2.9.9.tgz#db87ae0dec1ac006b2f01caf8d53422d7bc341ff"
+  integrity sha512-WMKO5HbNoGMdQNmf6kcjHmBKPd3voKvDdzr+IQGn1Rtb7dIQbTE33zf5dptZnv8dF4K0NvnzpTgz3bLdeAPc9w==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
